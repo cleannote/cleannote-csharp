@@ -1,0 +1,61 @@
+
+<div style="direction:ltr;border-width:100%">
+
+<div style="direction:ltr;margin-top:0in;margin-left:0in;width:7.602in">
+
+<div style="direction:ltr;margin-top:0in;margin-left:0in;width:7.602in">
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">This is
+an example of a OneNote-prepared blog post that is typically hard to convert to
+clean HTML.</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Because
+this second paragraph is actually a third one - the previous empty line will
+get its own &lt;p&gt;&amp;nbsp;&lt;/p&gt;. Clean HTML output needs to get rid
+of it.</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:14.0pt;color:#2E75B5" lang="en-US">Headings</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Then
+those headings.. Of course they are just &lt;p style="(bigger font,
+different color)"&gt;, why bother with H1-H6?</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">It's
+actually tricky to guess which heading level it should be in the output. For
+example, the above is H2 but the original, messy HTML doesn't give suggest it
+in any way.</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:14.0pt;color:#2E75B5" lang="en-US">Inline formatting (at least bold &amp; italic)</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">Of course
+OneNote uses &lt;font style="font-weight: bold"&gt; instead of <span style="font-weight:bold">strong</span> or <span style="font-weight:bold">b</span>,
+why not. The same for italics (it doesn't use <span style="font-style:italic">em</span>
+or <span style="font-style:italic">i</span>).</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:14.0pt;color:#2E75B5" lang="en-US">Other mess</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">&nbsp;</p>
+
+<p style="margin:0in;font-family:Calibri;font-size:11.0pt" lang="en-US">The
+exported HTML is full of lang="en-US", empty paragraphs etc. All that
+needs to go.</p>
+
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,22 @@
+<p>This is an example of a OneNote-prepared blog post that is typically hard to convert to clean HTML.</p>
+<p>Because
+this second paragraph is actually a third one - the previous empty line will
+get its own &lt;p&gt;&amp;nbsp;&lt;/p&gt;. Clean HTML output needs to get rid
+of it.</p>
+<h2>Headings</h2>
+<p>Then
+those headings.. Of course they are just &lt;p style="(bigger font,
+different color)"&gt;, why bother with H1-H6?</p>
+<p>It's
+actually tricky to guess which heading level it should be in the output. For
+example, the above is H2 but the original, messy HTML doesn't give suggest it
+in any way.</p>
+<h2>>Inline formatting (at least bold &amp; italic)</h2>
+<p>Of course
+OneNote uses &lt;font style="font-weight: bold"&gt; instead of <span style="font-weight:bold">strong</span> or <span style="font-weight:bold">b</span>,
+why not. The same for italics (it doesn't use <span style="font-style:italic">em</span>
+or <span style="font-style:italic">i</span>).</p>
+<h2>Other mess</h2>
+<p>The
+exported HTML is full of lang="en-US", empty paragraphs etc. All that
+needs to go.</p>
