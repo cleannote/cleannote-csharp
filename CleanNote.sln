@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanNote", "msonhtml2nicehtml\CleanNote.csproj", "{23C9642C-66A7-4851-8349-F5F93E1105F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanNote", "CleanNote\CleanNote.csproj", "{23C9642C-66A7-4851-8349-F5F93E1105F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanNote.TESTS", "msonhtml2nichtml.TESTS\CleanNote.TESTS.csproj", "{4DA4CAAC-9AA3-4606-89C4-0318DCB03AFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanNote.TESTS", "CleanNote.TESTS\CleanNote.TESTS.csproj", "{4DA4CAAC-9AA3-4606-89C4-0318DCB03AFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

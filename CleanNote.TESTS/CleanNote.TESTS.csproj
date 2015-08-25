@@ -59,7 +59,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\msonhtml2nicehtml\CleanNote.csproj">
+    <ProjectReference Include="..\CleanNote\CleanNote.csproj">
       <Project>{23c9642c-66a7-4851-8349-f5f93e1105f2}</Project>
       <Name>CleanNote</Name>
     </ProjectReference>
